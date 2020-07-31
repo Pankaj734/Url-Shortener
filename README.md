@@ -1,4 +1,4 @@
-# Url-Shortner
+# Url-Shortener
 
 This is my first ever project in pyhton. 
 
